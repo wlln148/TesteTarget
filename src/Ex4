@@ -1,0 +1,14 @@
+
+    Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue imediatamente o segundo interruptor.
+Vá até a sala das lâmpadas.
+
+Com essas ações, você terá três possíveis resultados ao chegar na sala das lâmpadas:
+
+Se uma lâmpada estiver acesa, ela é controlada pelo segundo interruptor (o que você deixou ligado).
+Se uma lâmpada estiver apagada e quente, ela é controlada pelo primeiro interruptor (o que você ligou e depois desligou).
+Se uma lâmpada estiver apagada e fria, ela é controlada pelo terceiro interruptor (o que você nunca tocou).
+
+Essa solução não requer um programa em Java, pois é uma questão de lógica e ação física. No entanto, se você quiser simular isso em um programa, você poderia criar um modelo das
+lâmpadas e interruptores e simular o processo de ligar e desligar os interruptores e verificar o estado das lâmpadas. Mas lembre-se, isso seria apenas uma simulação e não uma
+solução prática do problema real.
